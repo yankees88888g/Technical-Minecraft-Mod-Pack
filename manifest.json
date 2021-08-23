@@ -1,0 +1,10 @@
+{
+    "name": "TMMP",
+    "version": "S1.0v",
+    "author": "yankees88888g",
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "minecraft": {
+        "version": "1.17.1"
+    }
+}
